@@ -69,3 +69,10 @@ body {
     color: #216869;
     display: block;
 }
+.portfolio-list{
+    color: #DCE1DE;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 0;
+    list-style: none;
+}
