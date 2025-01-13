@@ -7,29 +7,52 @@ html, body{
 body {
     background-color: #1F2421;
 }
+
 .profile-image {
 
     display: inline-block;
-    background-color: aquamarine;
+    
     width: 40%;
     height: 650px;
+    text-align: center;
 }
+
 .profile-image img{
-    background-color: aquamarine;
+    
     width: 350px;
+    height: 350px;
+    border-radius: 250px;
+    margin-top: 120px;
+    margin-left: 38%;
 }
+
 .profile-text{
     color: #DCE1DE;
     display: inline-block;
-    background-color: blue;
+    
     vertical-align: top;
     height: 650px;
     text-align:center;
     width: 60%;
-    font-size: 22px;
-    
+    overflow: hidden;
 }
 
+.profile-text h1{
+    color: #DCE1DE;
+    font-size: 54px;
+    margin-top:230px;
+    margin-left: 5%;
+    text-align: left;    
+    ;
+}
+.profile-text h2{
+    color: #DCE1DE;
+    font-size: 16px;
+    margin-top: -12px;
+    margin-left: 5%;
+    text-align: left;
+    
+}
 .menu-list{
     color: #DCE1DE;
     text-align: right;
@@ -44,4 +67,5 @@ body {
 
 .profile-text span{
     color: #216869;
+    display: block;
 }
