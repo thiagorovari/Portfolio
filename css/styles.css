@@ -233,9 +233,18 @@ body {
     margin-top: 0;
     height: 38px;
     text-align: left;
+    
 }
+
 
 .contact-list a{
     color: #DCE1DE;
 }
+
+.contact-list span{
+    color: #DCE1DE;
+    font-weight: 100;
+    font-size: smaller;    
+}
+
 
