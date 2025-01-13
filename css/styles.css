@@ -60,6 +60,10 @@ body {
     margin-top: 0;
     list-style: none;
 }
+.menu-list a{
+    color: #DCE1DE;
+    text-decoration: none;
+}
 .menu-list li{
     display: inline-block;
     margin: 0 30px 0 30px;
@@ -75,4 +79,18 @@ body {
     font-size: 26px;
     margin-top: 0;
     list-style: none;
+}
+.contact-list{
+    color: #DCE1DE;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 0;
+    
+}
+.curriculo{
+    color: #DCE1DE;
+    text-align: center;
+    font-size: 26px;
+    margin-top: 0;
+    
 }
