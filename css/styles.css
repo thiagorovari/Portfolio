@@ -80,6 +80,9 @@ body {
     margin-top: 0;
     list-style: none;
 }
+.portfolio-list li{
+    display: inline-block;
+}
 .contact-list{
     color: #DCE1DE;
     text-align: center;
@@ -87,10 +90,18 @@ body {
     margin-top: 0;
     
 }
+.contact-list li{
+    display: inline-block;
+
+}
 .curriculo{
     color: #DCE1DE;
     text-align: center;
     font-size: 26px;
     margin-top: 0;
     
+}
+
+.curriculo li{
+    display: inline-block;
 }
