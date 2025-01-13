@@ -191,6 +191,14 @@ body {
 .curriculo li{
     display: inline-block;
 }
+.curriculo-back{
+    color: #DCE1DE;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    display: block;
+}
 
 .curriculo-path {
     color: #DCE1DE;
@@ -202,6 +210,32 @@ body {
 }
 
 .curriculo-path a{
+    color: #DCE1DE;
+}
+
+.contact-path{
+    color: #DCE1DE;
+    text-align: left;
+    font-size: 26px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.contact-path a{
+    color: #DCE1DE;
+}
+
+.contact-list h1{
+    color: #216869;
+    font-size: 54px;
+    margin-left: 5%;
+    margin-top: 0;
+    height: 38px;
+    text-align: left;
+}
+
+.contact-list a{
     color: #DCE1DE;
 }
 
