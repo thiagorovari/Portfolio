@@ -83,6 +83,41 @@ body {
 .portfolio-list li{
     display: inline-block;
 }
+.portfolio-list a{
+    color: #DCE1DE;
+    
+}
+
+.portfolio-list h1{
+    color: #216869;
+    font-size: 54px;
+    margin-left: 5%;
+    margin-top: 0;
+    height: 38px;
+    text-align: left;
+}
+
+.portfolio-list p{
+    color: #DCE1DE;
+    font-size: 26px;
+    margin-left: 8%;
+    margin-right: 8%;
+    text-align: justify;
+    height: 180px;
+}
+.portfolio-path{
+    color: #DCE1DE;
+    text-align: left;
+    font-size: 26px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    list-style: none;
+}
+.portfolio-path a{
+    color: #DCE1DE;
+}
+
+
 .contact-list{
     color: #DCE1DE;
     text-align: center;
@@ -109,3 +144,4 @@ body {
 .portfolio-projects img {
     display: inline-block;
 }
+
