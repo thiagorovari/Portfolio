@@ -1,22 +1,47 @@
-body {
-    background-color: #2b2b2b;
+html, body{
+    font-size:0;
+    padding: 0;
+    margin: 0;
 }
 
+body {
+    background-color: #1F2421;
+}
 .profile-image {
-    display: inline-block
 
+    display: inline-block;
+    background-color: aquamarine;
+    width: 40%;
+    height: 650px;
+}
+.profile-image img{
+    background-color: aquamarine;
+    width: 350px;
 }
 .profile-text{
-    color: white;
+    color: #DCE1DE;
     display: inline-block;
+    background-color: blue;
+    vertical-align: top;
+    height: 650px;
+    text-align:center;
+    width: 60%;
+    font-size: 22px;
+    
 }
 
 .menu-list{
-    color: white;
+    color: #DCE1DE;
     text-align: right;
     font-size: 26px;
+    margin-top: 0;
+    list-style: none;
 }
 .menu-list li{
     display: inline-block;
-    margin: 0 20px 0 20px;
+    margin: 0 30px 0 30px;
+}
+
+.profile-text span{
+    color: #216869;
 }
