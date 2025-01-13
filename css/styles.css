@@ -145,6 +145,9 @@ body {
     display: inline-block;
 
 }
+.contact-infos{
+    margin-top: 140px;
+}
 .curriculo{
     color: #DCE1DE;
     font-size: 26px;
