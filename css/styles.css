@@ -272,3 +272,18 @@ body {
         text-align: center;
     }
 }
+
+@media (max-width:1000px){
+    .portfolio-projects{
+        display: block;
+        text-align: center;
+    }
+    .portfolio-projects p{
+        display : block;
+        height: auto;
+    }
+
+    .portfolio-projects h2{
+        margin-top:30px;
+    }
+}
